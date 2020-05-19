@@ -53,7 +53,7 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "UCSD?",
+        "school": "UCSD Extension",
         "degree": "Full Stack Developer Bootcamp",
         "graduated": "July 2017",
         "description": "Course Work: HTML5, CSS3, JavaScript, Java, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL, Command Line, Git, and more. "
@@ -67,16 +67,22 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "UCSD Extension",
+        "title": "Associate Instructor",
+        "years": "August 2017 - Present",
+        "description": "Currently supporting an intensive Fullstack Bootcamp at University of California San Diego involving 250+ hours of in-class teaching through an extensive curriculum using HTML5, CSS3, Bootstrap, JavaScript, jQuery, Git, GitHub, Heroku, Node, Express, React, MongoDB, MySQL"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Leaselabs by Realpage",
+        "title": "Web Developer",
+        "years": "February 2018 - February 2020",
+        "description": "Works collaboratively with Design, QA, SEO, Implementation and Project Managers in creating custom Multi-family websites. Languages used:  Foundation Zurb, Ruby, HTML/HAML, Javascript, jQuery, CSS/SASS, Scroll Magic, Slick Slider, GIT, JIRA, Microsoft Teams, Gulp "
+      },
+      {
+        "company": "Victorise",
+        "title": "Software Engineer Internship",
+        "years": "September 2017 - December 2017",
+        "description": "Worked with peer development team on analysis, design, and implementation of mobile web app using Angular and Ionic"
       }
     ],
     "skills": [
@@ -147,12 +153,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Patient, communicative, respected and good character all come to mind when I think of David. It has been an absolute pleasure working with David directly as both a student and instructional assistant over the past year. David excelled as a student in our part-time web development bootcamp program and transitioned into a reliable, knowledgeable and respected TA for our students in our full-time web development program. I feel very lucky to have witnessed and been apart of David's evolution from a student learner to teacher. David exudes confidence and is always willing to go the extra mile for the greater good. David is simply one of the good ones and he made managing him a breeze. I look forward to finding additional ways for us to continue to work together in the future.",
+        "user": "Eric Johnson, Program Manager"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I had the pleasure to work with David on our app. We had to refactor some features and get our app ready for the App Store Submission. David has been able to quickly master a complex pipeline and to refactor large portions of code He is a self-starter, a hard worker and a leader. Anyone would be lucky to have him on their team!",
+        "user": "Jerome Lacote, Entrepreneur Developer"
       }
     ]
   }
