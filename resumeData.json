@@ -4,53 +4,48 @@
     "occupation": "Web Developer",
     "description": "Web developer who loves a collaborative environment, but also enjoys the challenge of tackling a problem individually. Takes great pride and ownership of his own career path as a Full Stack Web Developer.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Web developer who loves a collaborative environment, but also enjoys the challenge of tackling a problem individually. Takes great pride and ownership of his own career path as a Full Stack Web Developer.",
     "contactmessage": "Let's get in contact.",
     "email": "d88naimi@gmail.com",
     "phone": "555-555-5555",
     "address": {
       "street": "",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Cardiff By The Sea",
+      "state": "CA",
+      "zip": "92007"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://d88naimi.github.io/davidnaimi/",
+    "resumedownload": "https://docs.google.com/document/d/1XmxzKnLfiATalGABicjSk1RkVyNWTHmiNOd5jA1L4fM/edit?usp=sharing",
     "social": [
       {
+        "name": "email",
+        "url": "mailto:d88naimi@gmail.com ",
+        "className": "fa fa-fw fa-envelope-o"
+      },
+      {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/david.naimi",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
-        "className": "fa fa-google-plus"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/davidnaimi/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/habibinaimi/",
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/6178393/d88naimi",
+        "className": "fa fa-fw fa-stack-overflow "
       },
       {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
+        "name": "github",
+        "url": "https://github.com/d88naimi",
+        "className": "fa fa-github"
       }
     ]
   },
@@ -58,16 +53,16 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "UCSD?",
+        "degree": "Full Stack Developer Bootcamp",
+        "graduated": "July 2017",
+        "description": "Course Work: HTML5, CSS3, JavaScript, Java, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL, Command Line, Git, and more. "
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "California State University Fullerton",
+        "degree": "Bachelor of Arts - Business Administration, Marketing ",
+        "graduated": "May 2011",
+        "description": "Part of the Marketing Club and Ping Pong Club"
       }
     ],
     "work": [
@@ -87,7 +82,7 @@
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Illustrator",
