@@ -7,7 +7,7 @@
     "bio": "Web developer who loves a collaborative environment, but also enjoys the challenge of tackling a problem individually. Takes great pride and ownership of his own career path as a Full Stack Web Developer.",
     "contactmessage": "Let's get in contact.",
     "email": "d88naimi@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "",
     "address": {
       "street": "",
       "city": "Cardiff By The Sea",
@@ -16,8 +16,7 @@
     },
     "website": "https://d88naimi.github.io/davidnaimi/",
     "resumedownload": "https://docs.google.com/document/d/1XmxzKnLfiATalGABicjSk1RkVyNWTHmiNOd5jA1L4fM/edit?usp=sharing",
-    "social": [
-      {
+    "social": [{
         "name": "email",
         "url": "mailto:d88naimi@gmail.com ",
         "className": "fa fa-fw fa-envelope-o"
@@ -51,8 +50,7 @@
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
+    "education": [{
         "school": "UCSD Extension",
         "degree": "Full Stack Developer Bootcamp",
         "graduated": "July 2017",
@@ -65,8 +63,7 @@
         "description": "Part of the Marketing Club and Ping Pong Club"
       }
     ],
-    "work": [
-      {
+    "work": [{
         "company": "UCSD Extension",
         "title": "Associate Instructor",
         "years": "August 2017 - Present",
@@ -85,8 +82,44 @@
         "description": "Worked with peer development team on analysis, design, and implementation of mobile web app using Angular and Ionic"
       }
     ],
-    "skills": [
+    "accomplishments": [{
+        "company": "UCSD Extension",
+        "title": "HTML5 & jQuery",
+        "years": "April 2019 - May 2019",
+        "description": "Coursework included: Advanced DOM and event manipulation. Client-side graphics using Canvas or SVG, state management and local storage, and more."
+      },
       {
+        "company": "Udemy Online Training",
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmedtmann",
+        "years": "2019",
+        "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more."
+      },
+      {
+        "company": "Udemy Online Training",
+        "title": "The Complete JavaScript Course: Build Real Projects! by Jonas Schmedtmann",
+        "years": "2019",
+        "description": "Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack."
+      },
+      {
+        "company": "UCSD Extension",
+        "title": "Javascript & HTML",
+        "years": "June 2017 - August 2017",
+        "description": "Coursework included: Object oriented programming in JavaScript among providing advanced functionality to their websites, to provide user interactivity."
+      },
+      {
+        "company": "Udemy Online Training",
+        "title": "The Web Developer Bootcamp by Colt Steele",
+        "years": "2017",
+        "description": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!"
+      },
+      {
+        "company": "UCSD Extension",
+        "title": "Java Fundamentals",
+        "years": "March 2016 - May 2016",
+        "description": "Coursework include: Java Programming I: Fundamental Java Concepts, Android Java Fundamentals"
+      }
+    ],
+    "skills": [{
         "name": "Git",
         "level": "70%"
       },
@@ -117,42 +150,46 @@
     ]
   },
   "portfolio": {
-    "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+    "projects": [{
+        "title": "Legend Clarendon",
+        "category": "LeaseLab Custom Site",
+        "image": "apartment1.jpg",
+        "url": "https://www.2001clarendonapts.com/2001-clarendon-arlington-va/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Echelon Portfolio",
+        "category": "Portfolio build",
+        "image": "apartment2.jpg",
+        "url": "https://www.echelonrents.com/broadway-lofts-englewood-co/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Matrix Avery",
+        "category": "LeaseLab Custom Site",
+        "image": "apartment3.jpg",
+        "url": "https://www.averynorthwinds.com/the-avery-at-northwinds-alpharetta-ga/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Aldon Portfolio",
+        "category": "LeaseLabs Custom Site",
+        "image": "apartment4.jpg",
+        "url": "https://www.aldonchevychase.com/aldon-of-chevy-chase-bethesda-md/"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Wiehle Station",
+        "category": "Custom Website",
+        "image": "apartment5.jpg",
+        "url": "https://lincolnatwiehle.com/wiehle-station-reston-va"
+      },
+      {
+        "title": "Alpha San Diego",
+        "category": "Custom Website",
+        "image": "apartment6.jpg",
+        "url": "https://staging-alpha-san-diego-ca.leaselabs-staging.com/staging-alpha-san-diego-ca/"
       }
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
+    "testimonials": [{
         "text": "Patient, communicative, respected and good character all come to mind when I think of David. It has been an absolute pleasure working with David directly as both a student and instructional assistant over the past year. David excelled as a student in our part-time web development bootcamp program and transitioned into a reliable, knowledgeable and respected TA for our students in our full-time web development program. I feel very lucky to have witnessed and been apart of David's evolution from a student learner to teacher. David exudes confidence and is always willing to go the extra mile for the greater good. David is simply one of the good ones and he made managing him a breeze. I look forward to finding additional ways for us to continue to work together in the future.",
         "user": "Eric Johnson, Program Manager"
       },
