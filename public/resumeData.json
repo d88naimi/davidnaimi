@@ -63,7 +63,19 @@
         "description": "Part of the Marketing Club and Ping Pong Club"
       }
     ],
-    "work": [{
+    "work": [
+      {
+        "company": "Method",
+        "title": "Senior Software Engineer",
+        "years": "July 2022 - Present",
+        "description": "Method is a team of product strategists, UX designers, and software engineers that create innovative experiences to improve lives and transform businesses. As one of the lead engineers, I played a pivotal role in architecting the application, utilizing MUI design systems in conjunction with Tailwind CSS to craft reusable custom components that enhanced the app's functionality and aesthetics. I developed a comprehensive check-in page for a tire company using React, Next.JS, employing the useReducer and context APIs for state management. The page seamlessly integrates features for customer check-in, tire ordering, and service scheduling like oil changes and tire rotations. Leveraging APIs for address retrieval, users can quickly input their address, facilitating fast customer creation or retrieval. This streamlined process ensures efficient service delivery while also handling vehicle registration, inspection, and accurate tire cost estimation. "},
+
+      {
+        "company": "Zesty",
+        "title": "Front End Developer",
+        "years": "August 2020 - July 2022 ",
+        "description": "Collaborated and implemented best practices for UI/UX design. Maintained and updated Manager UI, Accounts UI, Design System, Next.JS Website. Built a Dashboard where Authors, Marketers, Implementors, and Developers can increase productivity, check out visual graphs, and accelerators to navigate the CMS. Built out Duo Mode a new split screen experience for content authors to preview changes made to a page or headless endpoint directly in the app. Helped Improved and maintained Frontend Cypress, Sentry Infrastructure. Helped rebuild our company's Marketing Website with Next.js. Currently integrating Material UI into our Design System."},
+      {
         "company": "UCSD Extension",
         "title": "Associate Instructor",
         "years": "August 2017 - Present",
@@ -120,16 +132,20 @@
       }
     ],
     "skills": [{
-        "name": "Git",
+        "name": "Javascript",
         "level": "70%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Figma",
+        "level": "30%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "80%"
+      },
+      {
+        "name": "NextJs",
+        "level": "80%"
       },
       {
         "name": "CSS",
@@ -141,16 +157,29 @@
       },
       {
         "name": "VueJs",
-        "level": "50%"
+        "level": "30%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
-    "projects": [{
+    "projects": [
+      {
+        "title": "Mavis Tire",
+        "category": "Customer Check-in Page",
+        "image": "mavis_tires.jpg",
+        "url": "https://www.mavis.com/"
+      },
+      {
+        "title": "Zesty",
+        "category": "CMS Dashboard",
+        "image": "zesty-io-logo-horizontal.svg",
+        "url": "https://www.zesty.io/"
+      },
+      {
         "title": "Legend Clarendon",
         "category": "LeaseLab Custom Site",
         "image": "apartment1.jpg",
