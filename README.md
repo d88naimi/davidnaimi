@@ -31,3 +31,4 @@ A high performance, enthusiastic, career oriented Web Developer who loves a coll
 #### Notes
 `npm i`
 `npm start`
+after editing run npm run deploy/build
